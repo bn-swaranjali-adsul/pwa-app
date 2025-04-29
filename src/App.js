@@ -17,6 +17,7 @@ function App() {
           </div>
         } />
         <Route path="/pwaapp" element={<PWAApp />} />
+        
       </Routes>
     </Router>
   );
